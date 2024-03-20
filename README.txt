@@ -1,0 +1,1 @@
+This repository includes de database to be import in a schema called 'superheroes'.
